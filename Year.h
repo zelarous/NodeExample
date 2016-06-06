@@ -1,4 +1,4 @@
-//Seth Maize
+//Zelarous
 //Year.h
 
 #ifndef MY_SECONDARY_INDEXY_H
