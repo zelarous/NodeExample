@@ -1,4 +1,4 @@
-//Seth Maize
+//Zelarous
 
 #ifndef TITLE_H
 #define TITLE_H
